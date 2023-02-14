@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "543145180850",
+    "firebase_url": "https://clonewhatsapp-3298e-default-rtdb.firebaseio.com",
+    "project_id": "clonewhatsapp-3298e",
+    "storage_bucket": "clonewhatsapp-3298e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543145180850:android:d4a2fe0dd634b211d893ab",
+        "android_client_info": {
+          "package_name": "com.example.produtos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543145180850-40sqprei2345v5ior04obbq3g4upg2p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbp3ltNCY5c4_pVAny9PO19hfUUAbje1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543145180850-40sqprei2345v5ior04obbq3g4upg2p6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543145180850-atohk0tb9heajqmiiu72mnbmkffscrpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Vinicius.WhatsApp-Clone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543145180850:android:48f2ded90e1e0fd5d893ab",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543145180850-40sqprei2345v5ior04obbq3g4upg2p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbp3ltNCY5c4_pVAny9PO19hfUUAbje1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543145180850-40sqprei2345v5ior04obbq3g4upg2p6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543145180850-atohk0tb9heajqmiiu72mnbmkffscrpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Vinicius.WhatsApp-Clone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543145180850:android:60ba5fd39da30d45d893ab",
+        "android_client_info": {
+          "package_name": "com.example.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543145180850-40sqprei2345v5ior04obbq3g4upg2p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbp3ltNCY5c4_pVAny9PO19hfUUAbje1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543145180850-40sqprei2345v5ior04obbq3g4upg2p6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543145180850-atohk0tb9heajqmiiu72mnbmkffscrpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Vinicius.WhatsApp-Clone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.WhatsApp" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/middleGreen</item>
+        <item name="colorPrimaryVariant">@color/DarkGreen</item>
+        <item name="colorOnPrimary">@color/Green</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Green</item>
+        <item name="colorSecondaryVariant">@color/Green</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Toolbar" parent="Theme.AppCompat.NoActionBar">
+
+    </style>
+
+    <style name="Theme.WhatsApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.WhatsApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.WhatsApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

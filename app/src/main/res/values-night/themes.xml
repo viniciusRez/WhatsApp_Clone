@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.WhatsApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/middleGreen</item>
+        <item name="colorPrimaryVariant">@color/DarkGreen</item>
+        <item name="colorOnPrimary">@color/Green</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Green</item>
+        <item name="colorSecondaryVariant">@color/Green</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
